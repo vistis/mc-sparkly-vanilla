@@ -1,0 +1,18 @@
+{
+  "main_menu": {
+    "bottom_left": [
+      {
+        "text": "Sparkly Vanilla 2.0.0-alpha.1"
+      }
+    ],
+    "bottom_right": [ 
+      {
+        "text": "Fabulously Optimized 5.12.0-alpha.4",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://download.fo"
+        }
+      }
+    ]
+  }
+}
